@@ -1,0 +1,2 @@
+# minarizk
+My_projects
